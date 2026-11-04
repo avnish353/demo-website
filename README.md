@@ -1,2 +1,2 @@
-# demo-website
-This is demo website for testing
+Welcome to Demo Website
+Welcome to our Demo Website, a platform created for testing, learning, experimentation, and demonstration purposes. This website is designed to provide a simple and user-friendly environment where visitors can explore different types of website content, layouts, features, and designs. The primary purpose of this platform is to demonstrate how a modern website can present information in an organized and attractive manner while maintaining a smooth browsing experience. Whether you are a developer, designer, student, tester, or regular visitor, this demo website provides an opportunity to understand different aspects of website development and content presentation.
